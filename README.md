@@ -4,9 +4,10 @@
 </p>
 
 <!-- Banner animado con efecto de tipeo (Typing SVG) -->
-<p align="right">
+<!-- Banner animado con efecto de tipeo (Alineado a la izquierda) -->
+<p align="left">
   <a href="https://github.com/IanPallero03">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=61DAFB&center=true&vCenter=true&width=650&lines=%C2%A1Hola!+Soy+Ian+Pallero;Desarrollador+Frontend+Junior;Especializado+en+React+%2B+Tailwind+CSS;Estudiante+de+Inform%C3%A1tica+(UNL)" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=61DAFB&center=false&vCenter=false&width=650&lines=%C2%A1Hola!+Soy+Ian+Pallero;Desarrollador+Frontend+Junior;Especializado+en+React+%2B+Tailwind+CSS;Estudiante+de+Inform%C3%A1tica+(UNL)" alt="Typing SVG" />
   </a>
 </p>
 
