@@ -75,28 +75,34 @@
 
 <table>
   <tr>
-    <td width="50%">
-      <h3 align="center">Sistema de Reservas</h3>
-      <p align="center">
+    <td width="50%" align="center">
+      <a href="https://ianpallero03.github.io/sistema-reservas-restaurante/" target="_blank">
+        <img src="https://raw.githubusercontent.com/IanPallero03/sistema-reservas-restaurante/main/Restaurante.webp" alt="Sistema de Reservas Demo" width="100%" style="border-radius: 8px;">
+      </a>
+      <h3>Sistema de Reservas</h3>
+      <p>
         Gestión de reservas en tiempo real con panel de administración, autenticación de Firebase y control de capacidad diario.
       </p>
-      <p align="center">
+      <p>
         <b>Tech:</b> React · Vite · Tailwind CSS · Firebase
       </p>
-      <p align="center">
+      <p>
         <a href="https://ianpallero03.github.io/sistema-reservas-restaurante/">🔗 Live Demo</a> | 
         <a href="https://github.com/IanPallero03/sistema-reservas-restaurante">💻 Código</a>
       </p>
     </td>
-    <td width="50%">
-      <h3 align="center">TrailerBox</h3>
-      <p align="center">
+    <td width="50%" align="center">
+      <a href="https://ianpallero03.github.io/TrailerBox/" target="_blank">
+        <img src="https://raw.githubusercontent.com/IanPallero03/TrailerBox/main/trailer-box_11zon.webp" alt="TrailerBox Demo" width="100%" style="border-radius: 8px;">
+      </a>
+      <h3>TrailerBox</h3>
+      <p>
         Plataforma web interactiva para explorar trailers y películas consumiendo la API pública de TMDB con filtros en tiempo real.
       </p>
-      <p align="center">
+      <p>
         <b>Tech:</b> React · Vite · Tailwind · REST API
       </p>
-      <p align="center">
+      <p>
         <a href="https://ianpallero03.github.io/TrailerBox/">🔗 Live Demo</a> | 
         <a href="https://github.com/IanPallero03/TrailerBox">💻 Código</a>
       </p>
