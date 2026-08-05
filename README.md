@@ -60,12 +60,6 @@
 
 ---
 
-### 📊 Estadísticas
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IanPallero03&show_icons=true&theme=radical&hide_border=true" alt="Estadísticas de GitHub" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IanPallero03&layout=compact&theme=radical&hide_border=true" alt="Lenguajes más usados" width="48%" />
-</p>
 ### 🚀 Proyectos Destacados
 
 <table>
