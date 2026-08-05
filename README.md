@@ -1,6 +1,6 @@
 <!-- Banner Header: El programador perplejo (Gracioso Relatable) -->
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmExMWM3Y2xyanZkeXplMHVwZHpwanVoamcwemtieGNhb2lmbDU2MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dWesBcTLavkZuG35MI/giphy.gif" alt="Pixel Art Coding Furious" width="80%">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmExMWM3Y2xyanZkeXplMHVwZHpwanVoamcwemtieGNhb2lmbDU2MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dWesBcTLavkZuG35MI/giphy.gif" alt="Pixel Art Coding Furious" width="60%">
 </p>
 
 <!-- Banner animado con efecto de tipeo (Typing SVG) -->
