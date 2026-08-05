@@ -77,7 +77,7 @@
   <tr>
     <td width="50%" align="center">
       <a href="https://ianpallero03.github.io/sistema-reservas-restaurante/" target="_blank">
-        <img src="https://github.com/IanPallero03/Mi_Portafolio/blob/main/imagenes/Restaurante.webp" alt="Sistema de Reservas Demo" width="100%" style="border-radius: 8px;">
+        <img src="https://raw.githubusercontent.com/IanPallero03/Mi_Portafolio/main/imagenes/Restaurante.webp" alt="Sistema de Reservas Demo" width="100%" style="border-radius: 8px;">
       </a>
       <h3>Sistema de Reservas</h3>
       <p>
@@ -93,7 +93,7 @@
     </td>
     <td width="50%" align="center">
       <a href="https://ianpallero03.github.io/TrailerBox/" target="_blank">
-        <img src="https://github.com/IanPallero03/Mi_Portafolio/blob/main/imagenes/trailer-box_11zon.webp" alt="TrailerBox Demo" width="100%" style="border-radius: 8px;">
+        <img src="https://raw.githubusercontent.com/IanPallero03/Mi_Portafolio/main/imagenes/trailer-box_11zon.webp" alt="TrailerBox Demo" width="100%" style="border-radius: 8px;">
       </a>
       <h3>TrailerBox</h3>
       <p>
