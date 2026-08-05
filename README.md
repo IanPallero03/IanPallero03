@@ -80,8 +80,8 @@
         <b>Tech:</b> React · Vite · Tailwind CSS · Firebase
       </p>
       <p align="center">
-        <a href="https://ianpallero03.github.io">🔗 Live Demo</a> | 
-        <a href="https://github.com/IanPallero03">💻 Código</a>
+        <a href="https://ianpallero03.github.io/sistema-reservas-restaurante/">🔗 Live Demo</a> | 
+        <a href="https://github.com/IanPallero03/sistema-reservas-restaurante">💻 Código</a>
       </p>
     </td>
     <td width="50%">
@@ -93,8 +93,8 @@
         <b>Tech:</b> React · Vite · Tailwind · REST API
       </p>
       <p align="center">
-        <a href="https://ianpallero03.github.io">🔗 Live Demo</a> | 
-        <a href="https://github.com/IanPallero03">💻 Código</a>
+        <a href="https://ianpallero03.github.io/TrailerBox/">🔗 Live Demo</a> | 
+        <a href="https://github.com/IanPallero03/TrailerBox">💻 Código</a>
       </p>
     </td>
   </tr>
