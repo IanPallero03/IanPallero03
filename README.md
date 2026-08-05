@@ -1,10 +1,10 @@
 <!-- Banner Header: El programador perplejo (Gracioso Relatable) -->
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHl0NXcyZ3l4NGx6MWY1eWRqbGtoZ2VtOGp2MW90eXZ3N243dmJzOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Pixel Art Coding Furious" width="100%">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHl0NXcyZ3l4NGx6MWY1eWRqbGtoZ2VtOGp2MW90eXZ3N243dmJzOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Pixel Art Coding Furious" width="80%">
 </p>
 
 <!-- Banner animado con efecto de tipeo (Typing SVG) -->
-<p align="left">
+<p align="right">
   <a href="https://github.com/IanPallero03">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=61DAFB&center=true&vCenter=true&width=650&lines=%C2%A1Hola!+Soy+Ian+Pallero;Desarrollador+Frontend+Junior;Especializado+en+React+%2B+Tailwind+CSS;Estudiante+de+Inform%C3%A1tica+(UNL)" alt="Typing SVG" />
   </a>
