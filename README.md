@@ -1,6 +1,8 @@
-<!-- Banner / GIF principal (puedes reemplazar la URL por tu propio GIF o imagen) -->
+<!-- Banner animado con efecto de tipeo (Typing SVG) -->
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWp4ODRwbmt2ZW82bWx5aDVxbjM2bTV6aDRsb3FzeG11YXU4OW9vYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUGG4dbv5BLAHxmX/giphy.gif" alt="Pixel Art Coding" width="100%">
+  <a href="https://github.com/IanPallero03">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=61DAFB&center=true&vCenter=true&width=650&lines=%C2%A1Hola!+Soy+Ian+Pallero;Desarrollador+Frontend+Junior;Especializado+en+React+%2B+Tailwind+CSS;Estudiante+de+Inform%C3%A1tica+(UNL)" alt="Typing SVG" />
+  </a>
 </p>
 
 # 👋 ¡Hola! Soy Ian Pallero
@@ -29,6 +31,7 @@
 
 * 💼 **Actualmente:** Desarrollando aplicaciones web modernas con React, Vite y Tailwind CSS mediante proyectos personales y colaborativos.
 * 🎓 **Educación:** Estudiante de la *Tecnicatura Universitaria en Informática Aplicada al Diseño Multimedia y de Sitios Web* (UNL).
+* 🛠️ **En proceso de aprendizaje:** Profundizando en TypeScript y optimización de rendimiento en React.
 * 🌐 **Idioma:** Español (Nativo) | Inglés (Intermedio B1 - Lectura técnica).
 * ⚡ **Dato curioso:** Apasionado por el desarrollo de componentes reutilizables, la arquitectura frontend y el consumo eficiente de APIs REST.
 
@@ -53,20 +56,16 @@
 ![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
-#### 📌 Conceptos
-* Consumo de APIs REST / JSON
-* Responsive Design
-* Desarrollo basado en componentes (CDD)
-
 ---
 
-### 🎓 Formación & Certificaciones
+### 💻 Buenas Prácticas & Workflow
 
-* 🏛️ **Tecnicatura Universitaria en Informática Aplicada al Diseño Multimedia y de Sitios Web** — *Universidad Nacional del Litoral (En curso)*
-* 📜 **Administrador de Base de Datos en MySQL** — *Edutin Academy*
-* 📜 **Git y Desarrollo Colaborativo Profesional** — *Edutin Academy*
-* 📜 **Universidad Python + Frameworks Django y Flask** — *Udemy*
-* 📜 **Desarrollo Web Completo: HTML5, CSS3 y JavaScript** — *Udemy*
+- 🔄 **Control de Versiones:** Git / GitHub Flow con trabajo en ramas (*Feature Branching*).
+- 🧩 **Componentización:** Desarrollo basado en componentes limpios y reutilizables en React.
+- 📱 **Mobile First & Responsive:** Diseño adaptativo enfocado en la mejor experiencia de usuario en cualquier dispositivo.
+- 🌐 **Consumo de APIs:** Peticiones asíncronas optimizadas e integración de datos en formato JSON.
+
+---
 
 ### 🚀 Proyectos Destacados
 
@@ -75,7 +74,7 @@
     <td width="50%">
       <h3 align="center">Sistema de Reservas</h3>
       <p align="center">
-        Gestión de reservas en tiempo real con panel de administración y control de capacidad.
+        Gestión de reservas en tiempo real con panel de administración, autenticación de Firebase y control de capacidad diario.
       </p>
       <p align="center">
         <b>Tech:</b> React · Vite · Tailwind CSS · Firebase
@@ -88,7 +87,7 @@
     <td width="50%">
       <h3 align="center">TrailerBox</h3>
       <p align="center">
-        Plataforma web para explorar trailers y películas consumiendo la API pública de TMDB.
+        Plataforma web interactiva para explorar trailers y películas consumiendo la API pública de TMDB con filtros en tiempo real.
       </p>
       <p align="center">
         <b>Tech:</b> React · Vite · Tailwind · REST API
@@ -100,3 +99,22 @@
     </td>
   </tr>
 </table>
+
+---
+
+### 🎓 Formación & Certificaciones
+
+* 🏛️ **Tecnicatura Universitaria en Informática Aplicada al Diseño Multimedia y de Sitios Web** — *Universidad Nacional del Litoral (UNL)* — En curso
+* 📜 **Administrador de Base de Datos en MySQL** — *Edutin Academy*
+* 📜 **Git y Desarrollo Colaborativo Profesional** — *Edutin Academy*
+* 📜 **Universidad Python + Frameworks Django y Flask** — *Udemy*
+* 📜 **Desarrollo Web Completo: HTML5, CSS3 y JavaScript** — *Udemy*
+
+---
+
+### 📊 Estadísticas de GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=IanPallero03&show_icons=true&theme=radical&hide_border=true" alt="Estadísticas de GitHub" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IanPallero03&layout=compact&theme=radical&hide_border=true" alt="Lenguajes más usados" width="48%" />
+</p>
