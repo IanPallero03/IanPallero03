@@ -66,3 +66,36 @@
   <img src="https://github-readme-stats.vercel.app/api?username=IanPallero03&show_icons=true&theme=radical&hide_border=true" alt="Ian's GitHub stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IanPallero03&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
 </p>
+
+### 🚀 Proyectos Destacados
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Sistema de Reservas</h3>
+      <p align="center">
+        Gestión de reservas en tiempo real con panel de administración y control de capacidad.
+      </p>
+      <p align="center">
+        <b>Tech:</b> React · Vite · Tailwind CSS · Firebase
+      </p>
+      <p align="center">
+        <a href="https://ianpallero03.github.io">🔗 Live Demo</a> | 
+        <a href="https://github.com/IanPallero03">💻 Código</a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">TrailerBox</h3>
+      <p align="center">
+        Plataforma web para explorar trailers y películas consumiendo la API pública de TMDB.
+      </p>
+      <p align="center">
+        <b>Tech:</b> React · Vite · Tailwind · REST API
+      </p>
+      <p align="center">
+        <a href="https://ianpallero03.github.io">🔗 Live Demo</a> | 
+        <a href="https://github.com/IanPallero03">💻 Código</a>
+      </p>
+    </td>
+  </tr>
+</table>
