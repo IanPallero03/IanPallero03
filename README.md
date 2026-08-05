@@ -1,3 +1,7 @@
+<!-- Banner Header: El programador perplejo (Gracioso Relatable) -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/IanPallero03/IanPallero03/main/perplejo_dev.gif" alt="Pixel Art Coding Furious" width="100%">
+</p>
 <!-- Banner animado con efecto de tipeo (Typing SVG) -->
 <p align="center">
   <a href="https://github.com/IanPallero03">
