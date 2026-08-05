@@ -60,6 +60,14 @@
 
 ---
 
+### 🎓 Formación & Certificaciones
+
+* 🏛️ **Tecnicatura Universitaria en Informática Aplicada al Diseño Multimedia y de Sitios Web** — *Universidad Nacional del Litoral (En curso)*
+* 📜 **Administrador de Base de Datos en MySQL** — *Edutin Academy*
+* 📜 **Git y Desarrollo Colaborativo Profesional** — *Edutin Academy*
+* 📜 **Universidad Python + Frameworks Django y Flask** — *Udemy*
+* 📜 **Desarrollo Web Completo: HTML5, CSS3 y JavaScript** — *Udemy*
+
 ### 🚀 Proyectos Destacados
 
 <table>
